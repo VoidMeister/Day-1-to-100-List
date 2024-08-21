@@ -1,6 +1,6 @@
-#Welcome to my coding journey!
+# Welcome to my coding journey!
 Trying to learn how to code from scratch!
 
-#Documentation 
+# Documentation 
 udemy.com/course/100-days-of-code
 
